@@ -1,0 +1,38 @@
+Proposal Form for Final Year Projects (FYP) - 2020
+
+Project Title:	_Price prediction app: Car recognition using ML_    ______________________________
+Category: Android application_______________________________________
+Group Members: _ Alisha Zahid
+Humayun Mumtaz
+Ushna Aftab Ahmed Khan
+Hafiz Muhammad Hamaza ___________________________________   Date: 25/05/2021_______________
+
+1. Project Description: The used car market is an ever-rising industry, which has almost doubled its market value in the last  few years. The emergence of online portals such as, OLX and 4Wheel and many others has facilitated  the need for both the customer and the seller to be better informed about the trends and patterns  that determine the value of the used car in the market. Machine Learning algorithms can be used to predict the retail value of a car, based on a certain set of features. Automated vehicle recognition  and price prediction are two interesting problems encountered within the automotive industry. The  ability to accurately identify a vehicle within an image is extremely useful in many areas including  intelligent transport systems and autonomous driving.  
+The main objective of this project is to use three different prediction models to predict the retail  price of a used car and compare their levels of accuracy. The data set will be used for the prediction  models will be collect from experienced car dealers. The data set primarily comprises of categorical  attributes along with two quantitative attributes. 
+
+2. Objectives/Functionalities of the Project:
+S. No	Project Objectives	Completion Dates
+1.	To do the literature review of existing methods used for price prediction with car recognition.	
+2.	To design dataset and knowledge based rules for inference engine.	
+3.	To develop a complete application based on expert system	
+4.	To test the application with training and testing the dataset.	
+		
+
+3. Methodology:
+	Software	Hardware
+Programming Languages	Java	
+Operating Systems	Above than android 7.0	
+Databases	SQL lite ot Firebase	
+Others		
+
+4. List of Purchased and Designed Components:  
+Purchased Components	Designed Components
+Hosting,domain	
+	
+	
+	
+ 
+ Incharge FYPC: 	                                  □ Approved 	                	         □ Not Approved
+
+______________________________________________            		 
+Name & Dated Signature of Internal Advisor 	   	Name & Dated Signature of Group Leader
